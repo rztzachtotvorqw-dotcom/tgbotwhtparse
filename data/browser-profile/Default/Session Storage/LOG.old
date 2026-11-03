@@ -1,0 +1,5 @@
+2026/09/15-22:35:34.446 df6c Recovering log #3
+2026/09/15-22:35:34.447 df6c Level-0 table #5: started
+2026/09/15-22:35:34.456 df6c Level-0 table #5: 120 bytes OK
+2026/09/15-22:35:34.495 df6c Delete type=0 #3
+2026/09/15-22:35:34.495 df6c Delete type=3 #2
